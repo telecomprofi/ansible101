@@ -1,7 +1,7 @@
 # ansible101
 Ansible examples for beginners
 
-* Provision EC2 instance with Ansible Playbok keeping secrets secure with Ansible vault <https://medium.datadriveninvestor.com/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f>
+* Provision AWS EC2 instance with Ansible Playbok keeping secrets secure with Ansible vault <https://medium.datadriveninvestor.com/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f>
 * update cache & upgrade all packages on CentOS Linux <update.md> <update.yml>
 * update systemctl limits on number of file descriptors (ulimit -n) & similiar (CentOS7 tuning)
 1. with pam_limits module <systemctl.yml> and (1st variant)
