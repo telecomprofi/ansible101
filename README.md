@@ -15,7 +15,7 @@ Ansible examples for beginners
 </br>
 * Ansible playbook to modify ulimit system limits for specific user with pam_limits module - untested (3rd variant) <https://github.com/telecomprofi/ansible101/blob/main/modify_ulimit%20using%20pam_limits%20module_untested.yml>
 </br>
-* 3.  Ansible example of changing limits with pam_limits <tba > 
+* 3.  Ansible example of changing limits with pam_limits <https://github.com/telecomprofi/ansible101/blob/main/limits.conf%20with%20Ansible.md> 
 
   
 
