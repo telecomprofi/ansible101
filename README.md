@@ -2,8 +2,8 @@
 Ansible examples for beginners
 
 ### Provision AWS EC2 instance with Ansible Playbok keeping secrets secure with Ansible vault
-* [Link to article] (https://medium.datadriveninvestor.com/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f)
-* [Link to playbook] (tba)
+* [Link to article](https://medium.datadriveninvestor.com/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f)
+* [Link to playbook](tba)
 * 
 ### update cache & upgrade all packages on CentOS Linux <update.md> <update.yml>
 * update systemctl limits on number of file descriptors (ulimit -n) & similiar (CentOS7 tuning)
@@ -17,10 +17,12 @@ Ansible examples for beginners
 
 ### 3. Ad-hoc absible cli examples <ad-hoc with ssh key, become, and run comands from specific linux user>
 
-### 4. Ansible playbook to modify ulimit system limits for specific user with pam_limits module - untested (3rd variant) [Link to playbook] (https://github.com/telecomprofi/ansible101/blob/main/modify_ulimit%20using%20pam_limits%20module_untested.yml)
+### 4. Ansible playbook to modify ulimit system limits for specific user with pam_limits module - untested (3rd variant) 
+* [Link to playbook](https://github.com/telecomprofi/ansible101/blob/main/modify_ulimit%20using%20pam_limits%20module_untested.yml)
 
 
-### 5.  Ansible playbook example of changing Linux system/user limits with pam_limits <https://github.com/telecomprofi/ansible101/blob/main/limits.conf%20with%20Ansible.md> 
+### 5.  Ansible playbook example of changing Linux system/user limits with pam_limits 
+* [Link to article](https://github.com/telecomprofi/ansible101/blob/main/limits.conf%20with%20Ansible.md)
 
   
 
