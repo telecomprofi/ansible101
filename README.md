@@ -7,19 +7,20 @@ Ansible examples for beginners
 * 
 ### update cache & upgrade all packages on CentOS Linux <update.md> <update.yml>
 * update systemctl limits on number of file descriptors (ulimit -n) & similiar (CentOS7 tuning)
-</br>
+
+
 ### 1. with pam_limits module <systemctl.yml> and (1st variant)
 
-</br>
+
 ### 2. without it <systemctl2.yml> with reload (2nd variant)
 * copy files to remote host
-* 
-### 3. Ad-hoc examples <ad-hoc with ssh key, become, and run comands from specific linux user>
-</br>
-### 4. Ansible playbook to modify ulimit system limits for specific user with pam_limits module - untested (3rd variant) <https://github.com/telecomprofi/ansible101/blob/main/modify_ulimit%20using%20pam_limits%20module_untested.yml>
-</br>
 
-### 5.  Ansible example of changing limits with pam_limits <https://github.com/telecomprofi/ansible101/blob/main/limits.conf%20with%20Ansible.md> 
+### 3. Ad-hoc absible cli examples <ad-hoc with ssh key, become, and run comands from specific linux user>
+
+### 4. Ansible playbook to modify ulimit system limits for specific user with pam_limits module - untested (3rd variant) [Link to playbook] (https://github.com/telecomprofi/ansible101/blob/main/modify_ulimit%20using%20pam_limits%20module_untested.yml)
+
+
+### 5.  Ansible playbook example of changing Linux system/user limits with pam_limits <https://github.com/telecomprofi/ansible101/blob/main/limits.conf%20with%20Ansible.md> 
 
   
 
