@@ -1,5 +1,8 @@
 # ansible101
 Ansible examples for beginners
+# First ansible playbok to deploy LAMP stack
+* [Link to video](https://www.youtube.com/watch?v=Bl1Iab8B1L8)
+* [Link to playbook](https://github.com/telecomprofi/ansible101/blob/main/ansible_LAMP.md)
 
 ### Provision AWS EC2 instance with Ansible Playbok keeping secrets secure with Ansible vault
 * [Link to article](https://medium.datadriveninvestor.com/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f)
