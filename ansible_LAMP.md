@@ -1,7 +1,5 @@
 ### Ansible playbook with hadnler that installs LAMP stack
-
-
-![image](https://user-images.githubusercontent.com/17558124/136370793-ebdbb6de-6765-4a9e-98e4-7513d034b5c3.png)
-
-![image](https://user-images.githubusercontent.com/17558124/136385352-4424885f-ab3a-46d4-b8f2-634134d62743.png)
+* note the handler at the bottom of the playbook
+* handlers are tasks that are executed only a) if there were change on server and b) if they were notified at least once (no matter how many times) at the end of playbook
+![image](https://user-images.githubusercontent.com/17558124/136385493-256753d0-b7c9-402e-bf62-5248d491236e.png)
 
