@@ -7,7 +7,7 @@ Ansible examples for beginners
 
 ## Provision AWS EC2 instance with Ansible Playbok keeping secrets secure with Ansible vault
 * [Link to article](https://medium.datadriveninvestor.com/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f)
-* [Link to playbook](tba)
+* [Link to playbook](https://github.com/telecomprofi/ansible101/blob/main/ansible_aws_ec2/ansible_aws_ec2_creation.yml)
 
 ## Molecule & Podman for devoloping and testing multi-ditro playbooks
 * [Link to page](https://github.com/telecomprofi/ansible101/blob/main/molecule.md)
