@@ -33,6 +33,13 @@ Ansible examples for beginners
 ### 5.  Ansible playbook example of changing Linux system/user limits with pam_limits 
 * [Link to article](https://github.com/telecomprofi/ansible101/blob/main/limits.conf%20with%20Ansible.md)
 
+
+
+
+### Ansible galaxy collections
+![image](https://user-images.githubusercontent.com/17558124/137009849-e51a06df-2eb1-47ee-8148-731cf3d0fb85.png)
+
+
   
 
 
