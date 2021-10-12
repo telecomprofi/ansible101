@@ -29,6 +29,18 @@ Ansible examples for beginners
 ### 4. Ansible playbook to modify ulimit system limits for specific user with pam_limits module - untested (3rd variant) 
 * [Link to playbook](https://github.com/telecomprofi/ansible101/blob/main/modify_ulimit%20using%20pam_limits%20module_untested.yml)
 
+Yaml & syntax
+![image](https://user-images.githubusercontent.com/17558124/137010020-af5281de-c8d6-47d1-b05a-790b8be6f8e4.png)
+
+
+simple playbook to install and configure Apache httpd
+![image](https://user-images.githubusercontent.com/17558124/137010148-f9bb8aa0-e05a-43f3-acea-e18b10b911fa.png)
+
+Simple set of tasks to install nginx
+![image](https://user-images.githubusercontent.com/17558124/137010276-8e3d64a5-f9b4-43a4-9238-fadc96e5c411.png)
+
+
+
 
 ### 5.  Ansible playbook example of changing Linux system/user limits with pam_limits 
 * [Link to article](https://github.com/telecomprofi/ansible101/blob/main/limits.conf%20with%20Ansible.md)
@@ -41,5 +53,13 @@ Ansible examples for beginners
 
 
   
+### TBA jinja j2 templates in Ansible config management & overriding config settings/vars
+
+
+### TBA AWX aka Ansible Tower
+
+### TBA how to pair Ansible & Terraform
+
+### Ansible & safe secret management 
 
 
