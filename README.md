@@ -9,6 +9,9 @@ Ansible examples for beginners
 * [Link to article](https://medium.datadriveninvestor.com/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f)
 * [Link to playbook](https://github.com/telecomprofi/ansible101/blob/main/ansible_aws_ec2/ansible_aws_ec2_creation.yml)
 
+## Provision 3 VMs on ESXi vCentre with interactive vcentre username/password prompt
+* [Link to playbook](https://github.com/telecomprofi/ansible101/blob/main/ansible_esxi_3VM_with_user_pass_prompt/Create_3VM_in_ESXi_Vcentre_with_username_password_prompt.yml)
+
 ## Molecule & Podman for devoloping and testing multi-ditro playbooks
 * [Link to page](https://github.com/telecomprofi/ansible101/blob/main/molecule.md)
 
