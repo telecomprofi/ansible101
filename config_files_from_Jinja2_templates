@@ -1,0 +1,13 @@
+# Ansible templates and Config file manipulation
+
+## One of the tasks that Ansible is used for is application installation and provisioning (i.e. config file manipulation)
+
+### Known pattern for this kind of tasks is using Jinja2 template files with {{ variable }} that is replaced during ansible playbook execution with either Environment variables of Ansible facts
+
+### put your config template file (vim.j2) into 
+/template/ directory
+
+more details are in:
+https://www.redhat.com/sysadmin/ansible-templates-configuration
+
+<tba> how to create j2 template file from Terraform output
